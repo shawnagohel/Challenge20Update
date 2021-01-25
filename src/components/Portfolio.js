@@ -6,12 +6,19 @@ export default function Portfolio() {
     <div>
       <h1>Portfolio</h1>
       <div className="portfolio-projects">
-        <Project
-          title="password generator"
-          github="ttps://github.com/shawnagohel/Password-Generator"
-          url="https://shawnagohel.github.io/Password-Generator/"
+//         <Project
+//           title="password generator"
+//           github="ttps://github.com/shawnagohel/Password-Generator"
+//           url="https://shawnagohel.github.io/Password-Generator/"
+//           img="\images\pwd-gen.PNG"
+//         />
+      <Project
+          title="FINAL CHALLENGE"
+          github="https://github.com/shawnagohel/adopt-a-dog"
+          url="https://adopt-me-hameed1239.herokuapp.com/"
           img="\images\pwd-gen.PNG"
         />
+    
         <Project
           title="Weather Dashboard"
           github="https://github.com/shawnagohel/weather_dashboard"
